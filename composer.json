@@ -12,7 +12,7 @@
     {
         "php": "^7.1.0",
         "laravel/framework": "~5.5",
-        "nomandia/iimage": "dev-master",
+        "nomandia/iimage": "^1",
         "erusev/parsedown": "^1.7",
         "league/html-to-markdown": "^4.6",
         "mews/purifier": "^2.0"
